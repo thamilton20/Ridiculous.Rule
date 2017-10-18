@@ -1,0 +1,25 @@
+body {
+font-family: Arial, Verdana, sans-serif;
+  color: #ffe6e6;
+  padding: 10px;
+}
+h1 {
+  font-family: Arial, Verdana, sans-serif;
+  color: white;
+  background-color: green;
+}
+
+.page{
+  border: 1px solid #002080;
+  background-color: #efefef;
+  Padding: inherit;
+}
+.pink{
+  font-family: Arial, Verdana, sans-serif;
+  color: white;
+  background-color: pink;
+}
+.white{
+  background-color: #ffffff;
+  Color: gray;
+}
